@@ -1,4 +1,14 @@
 import streamlit as st
+
+# Set page config - MUST be the first Streamlit command
+st.set_page_config(
+    page_title="Phishing Email Analyzer",
+    page_icon="📧",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+# Import other libraries after st.set_page_config
 import io
 import json
 import os
@@ -16,14 +26,6 @@ from streamlit_extras.colored_header import colored_header
 from streamlit_extras.metric_cards import style_metric_cards
 from heuristics import analyze_email_for_phishing
 from email_parser import parse_eml_file
-
-# Set page config - MUST be the first Streamlit command
-st.set_page_config(
-    page_title="Phishing Email Analyzer",
-    page_icon="📧",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
 
 # Custom CSS
 st.markdown("""
