@@ -87,9 +87,7 @@ The analyzer uses several techniques to identify potential phishing attempts:
 - `app.py`: Main Streamlit application
 - `heuristics.py`: Core analysis logic and phishing detection algorithms
 - `email_parser.py`: Functions for parsing email files
-- `uploads/`: Directory for storing uploaded email files
-- `static/`: Static assets for the application
-- `templates/`: HTML templates for reports
+- `samples/`: Directory sample email files for testing
 
 ## Contributing
 
