@@ -1,0 +1,18 @@
+Return-Path: <security@amaz0n-payments.net>
+From: Amazon Account Services <support@amazon.com>
+Reply-To: helpdesk@scamzone.biz
+To: user@example.com
+Subject: Payment Declined — Immediate Action Needed
+Date: Mon, 14 Apr 2025 11:30:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Hello,</p>
+    <p>We've detected an issue with your recent Amazon payment.</p>
+    <p>Please <a href="http://login-secure.biz">amazon.com</a> to re-verify your billing information.</p>
+    <p>Failure to act within 24 hours will result in account suspension.</p>
+    <p>Thank you,<br>Amazon Account Services</p>
+  </body>
+</html>

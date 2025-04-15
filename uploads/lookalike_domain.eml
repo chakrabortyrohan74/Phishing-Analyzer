@@ -1,0 +1,18 @@
+Return-Path: <security@micr0soft-security.net>
+From: Microsoft Security Team <security@micr0soft-security.net>
+To: user@example.com
+Subject: Critical Security Alert - Action Required
+Date: Wed, 17 Apr 2025 08:45:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Microsoft User,</p>
+    <p>We have detected suspicious login attempts on your Microsoft account.</p>
+    <p>To secure your account, please verify your identity by clicking the link below:</p>
+    <p><a href="https://account-microsoft-verify.com">Verify Account</a></p>
+    <p>This security verification will expire in 24 hours.</p>
+    <p>Thank you,<br>Microsoft Security Team</p>
+  </body>
+</html>

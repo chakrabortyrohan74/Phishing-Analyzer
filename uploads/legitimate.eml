@@ -1,0 +1,19 @@
+From: Amazon.com <ship-confirm@amazon.com>
+To: customer@example.com
+Subject: Your Amazon.com order has shipped
+Date: Fri, 19 Apr 2025 10:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Hello Customer,</p>
+    <p>Your Amazon.com order #123-4567890-1234567 has shipped.</p>
+    <p>Your package was sent to:</p>
+    <p>John Doe<br>123 Main Street<br>Anytown, CA 12345</p>
+    <p>Estimated delivery date: April 22, 2025</p>
+    <p>You can track your package at <a href="https://www.amazon.com/tracking">amazon.com/tracking</a></p>
+    <p>Thank you for shopping with us!</p>
+    <p>Amazon.com<br>Earth's Most Customer-Centric Company</p>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+Return-Path: <admin@banking-secure-alerts.com>
+From: Bank of America <customerservice@bankofamerica.com>
+Reply-To: support@secure-banking-center.com
+To: customer@example.com
+Subject: Important: Your Account Access Has Been Limited
+Date: Tue, 16 Apr 2025 14:22:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Bank of America Customer,</p>
+    <p>Our security system has detected multiple unsuccessful login attempts to your online banking account.</p>
+    <p>For your protection, we have temporarily limited access to your account.</p>
+    <p>To restore full access, please verify your identity by clicking the link below:</p>
+    <p><a href="https://bankofamerica.com">Verify My Identity</a></p>
+    <p>If you did not attempt to log in, please contact our fraud department immediately.</p>
+    <p>Sincerely,<br>Bank of America Security Team</p>
+  </body>
+</html>

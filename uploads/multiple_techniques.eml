@@ -1,0 +1,22 @@
+Return-Path: <support@g00gle-accounts.com>
+From: Google Account Security <security@google.com>
+Reply-To: verification@g00gle-accounts.com
+To: user@example.com
+Subject: Security Alert: Your Google Account Was Accessed From a New Device
+Date: Thu, 18 Apr 2025 16:30:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Google User,</p>
+    <p>We detected a sign-in to your Google Account from a new device located in [Location].</p>
+    <p>Device: Windows PC</p>
+    <p>Location: Kiev, Ukraine</p>
+    <p>Time: April 18, 2025, 4:15 PM</p>
+    <p>If this was you, you can safely ignore this email.</p>
+    <p>If this wasn't you, someone may have your password. Please <a href="http://accounts-google-security.com">Google Account</a> to secure your account immediately.</p>
+    <p>You can also review your <a href="http://security.g00gle-accounts.com">security activity</a> to confirm no other unauthorized access has occurred.</p>
+    <p>Regards,<br>The Google Security Team</p>
+  </body>
+</html>

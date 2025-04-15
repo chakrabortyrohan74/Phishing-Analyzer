@@ -1,0 +1,17 @@
+From: PayPal Customer Service <service@paypal.com>
+To: customer@example.com
+Subject: Your PayPal account needs verification
+Date: Mon, 15 Apr 2025 09:15:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear valued customer,</p>
+    <p>We've noticed some unusual activity on your PayPal account.</p>
+    <p>Please <a href="http://paypal-secure-verification.com">click here</a> to verify your account information.</p>
+    <p>Or visit our <a href="http://paypal-account-verify.net">PayPal Security Center</a> to update your security settings.</p>
+    <p>Failure to verify your information may result in account limitations.</p>
+    <p>Thank you,<br>PayPal Customer Service Team</p>
+  </body>
+</html>
